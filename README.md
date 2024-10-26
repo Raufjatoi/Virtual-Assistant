@@ -8,5 +8,5 @@ This is a simple virtual assistant (VA) that is still in development. I am curre
 > You can change the system prompt based on the agent you need.
 
 > [!WARNING]
-> It is still under development, so it is not be as good as ya throught it to be .
+> It is still under development, so it is not be as good as ya throught it to be 🙂.
 
